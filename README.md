@@ -19,31 +19,31 @@
 В период стажировки создавался командный проект BankUI. Для запуска необходимо выполнить pod install. Проект представляет из себя банковское приложение с определенным функционалом:
 - вход в приложение по пин-коду или Face ID/Touch ID;
 <p align="center"> 
-<img src="./Screens/screen0.jpg">
+<img src="./screens/screen0.jpg">
 </p>
 - просмотр банковских карт пользователя;
 <p align="center"> 
-<img src="./Screens/screen1.jpg">
+<img src="./screens/screen1.jpg">
 </p>
 - история транзакций;
 <p align="center"> 
-<img src="./Screens/screen2.jpg">
+<img src="./screens/screen2.jpg">
 </p>
 - настройка профиля пользователя и создание подписи;
 <p align="center"> 
-<img src="./Screens/screen3.jpg">
+<img src="./screens/screen3.jpg">
 </p>
 - симуляция баскетбольной лиги в рамках компании;
 <p align="center"> 
-<img src="./Screens/screen4.jpg">
+<img src="./screens/screen4.jpg">
 </p>
 - карта с отделениями банка;
 <p align="center"> 
-<img src="./Screens/screen6.jpg">
+<img src="./screens/screen6.jpg">
 </p>
 - экранная форма со списком отделений банка и банкоматов.
 <p align="center"> 
-<img src="./Screens/screen8.jpg">
+<img src="./screens/screen8.jpg">
 </p>
 
  Я принимал участие в создании почти всех модулей. По ключевому слову "Kolesnikov" в XCode можно найти те файлы и модули, которые создавались мной. 
